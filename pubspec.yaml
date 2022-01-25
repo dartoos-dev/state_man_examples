@@ -1,5 +1,6 @@
 name: state_man_examples
 description: Demo app for experimenting with state management approaches.
+repository: https://github.com/dartoos-dev/state_man_examples
 
 version: 0.0.1
 
