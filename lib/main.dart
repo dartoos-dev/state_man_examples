@@ -5,7 +5,9 @@ void main() {
   runApp(const MyApp());
 }
 
-/// Root widget.
+/// The Topmost Root Widget.
+///
+/// This is the container holding the whole Flutter Application.
 class MyApp extends StatelessWidget {
   /// Ctor.
   const MyApp({Key? key}) : super(key: key);
